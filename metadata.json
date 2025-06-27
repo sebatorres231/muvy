@@ -1,0 +1,6 @@
+{
+  "name": "Muvy Catalog",
+  "description": "A modern, searchable product catalog that allows users to browse items, filter by category, and initiate orders via WhatsApp.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
